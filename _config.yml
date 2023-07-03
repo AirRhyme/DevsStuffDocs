@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Devs Stuff Docs
+description: Devs Stuff Code Documentation
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://devsstuffdocs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
